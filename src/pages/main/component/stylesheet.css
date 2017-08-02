@@ -1,0 +1,18 @@
+.Question {
+  margin: 0 5%;
+  border: 1px solid #bdc3c7;
+
+}
+
+.Question * {
+  margin: auto;
+  padding: 0 2%;
+}
+
+.Question p {
+  text-align: center;
+}
+
+.Question img {
+  max-width: 50%;
+}

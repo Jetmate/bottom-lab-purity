@@ -1,3 +1,2 @@
-# react-boilerplate
-simple boilerplate for react projects
-Technologies used: React, Redux, Webpack, Babel, Normalize.css
+# Bottom Lab Purity
+The official purity test of bottom lab

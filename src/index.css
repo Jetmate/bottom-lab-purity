@@ -1,0 +1,16 @@
+:global .row {
+  display: flex;
+  justify-content: space-around;
+}
+
+:global .col-2 {
+  flex: 0 0 50%;
+}
+
+:global .col-3 {
+  flex: 0 0 33.33%;
+}
+
+:global .col-4 {
+  flex: 0 0 25%;
+}
